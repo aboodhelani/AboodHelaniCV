@@ -44753,7 +44753,7 @@ r=s.z
 return A.aj(q,A.cf(A.b([A.apK(40,r),new A.dh(1,q),A.hy(!1,!0,A.rB(B.BU,r,30),q,!0,q,q,q,q,q,q,q,q,q,s.r,q,q,q,q)],t.p),B.t,B.n,B.o,q),B.j,B.c_,q,q,q,q,q,q,B.BC,q,q,p.a.a)}else return s.aka(a)},
 $S:59}
 A.a6G.prototype={
-$0(){A.eK("assets/images/AbdAlrahmanAlhelaniResume last release.pdf")},
+$0(){A.eK("assets/assets/images/AbdAlrahmanAlhelaniResume last release.pdf")},
 $S:0}
 A.a6E.prototype={
 $0(){this.a.Q.$1(this.b[this.c].b)},
