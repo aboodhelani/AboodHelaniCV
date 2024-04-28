@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <base href="/Portfolio/">
+  <base href="$FLUTTER_BASE_HREF">
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description"
@@ -38,7 +38,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=3008564407');
+        navigator.serviceWorker.register('flutter_service_worker.js');
       });
     }
   </script>
